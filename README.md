@@ -11,7 +11,7 @@ With this simple script you will be able to protect the security of your Raspber
 
 Example of how the alert would look like in your Telegram bot
 
-![telegram_notification.png](docs/telegram_notification.png)
+![telegram_notification.png](docs/telegram_notification1.png)
 
 ## Requirements
 
