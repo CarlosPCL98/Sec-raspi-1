@@ -6,7 +6,7 @@ import os
 from os.path import join, dirname
 from dotenv import load_dotenv
 
-dotenv_path = join(dirname(__file__), '../.env') #Please, Check the route for .env file.
+dotenv_path = join(dirname(__file__), '.env') #Please, Check the route for .env file.
 load_dotenv(dotenv_path)
 
 # Set the limits for CPU and RAM
